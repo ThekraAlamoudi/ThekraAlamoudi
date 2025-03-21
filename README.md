@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThekraAlamoudi
-- 👀 I’m interested in DevOps and Frontend.
+- 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning frontend web development
 - 📫 How to reach me [linkedin](https://sa.linkedin.com/in/thekra-alamoudi-3b2a7a212)
 
